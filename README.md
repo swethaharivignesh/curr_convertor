@@ -1,2 +1,2 @@
 # curr_convertor
-I have don currency convertor using API call 
+I have done currency convertor using API call to impelement all countries 
